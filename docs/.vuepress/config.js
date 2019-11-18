@@ -1,4 +1,6 @@
 module.exports = {
+    base: '/blog/dist/',
+    dest: 'dist',
     themeConfig: {
         sidebar: [
             {
